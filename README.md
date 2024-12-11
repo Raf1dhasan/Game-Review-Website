@@ -35,17 +35,13 @@ The **Game Review Website** was created to:
 ## Technologies Used
 - **HTML5**
 - **CSS3**
-- **JavaScript** (if applicable)
 - **Version Control** (Git)
 
 ## Screenshots
-### Home Page
-![Home Page](home-page-screenshot.png)
 
-### Game Details Section
-![Game Details](game-details-screenshot.png)
+![Home Page](ss2.png)
 
-*(Replace `home-page-screenshot.png` and `game-details-screenshot.png` with the actual file names of your screenshots.)*
+
 
 ## Future Improvements
 - Adding a user authentication system for the Login feature.
@@ -53,9 +49,7 @@ The **Game Review Website** was created to:
 - Enhancing SEO for better search engine visibility.
 - Incorporating user reviews and ratings for each game.
 
-## YouTube Demo
 
-Watch the demo of the project here: [Game Review Website Demo](https://youtu.be/elSdfazX2sY)
 
 ## Contact
 If you'd like to learn more about this project or discuss opportunities, feel free to reach out at **rafidhasan202@gmail.com**.
